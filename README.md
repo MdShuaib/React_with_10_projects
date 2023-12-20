@@ -8,6 +8,7 @@ Welcome to the React.js 10 Projects repository! This repository contains 10 diff
 2. Project Two - TODO
 3. Project Three - Meals
 4. Project Four - Calculator
+5. Project Five - Color toggler
    <!-- Add links to each project with brief descriptions -->
 
 ## Prerequisites
